@@ -1,4 +1,4 @@
-d= dict() 
-for X in range (2,15): 
-    d [X]=X**2 
+d= dict() #creating an empty dictionary
+for X in range (2,15): #output the values in that range
+    d [X]=X**2 # square the values
     print (d) 
